@@ -1,3 +1,6 @@
+# Locally Deplpyed LLM for Clinical Concept Extraction
+This is the main repository for the Latent Meaning Cells (LMC) Model. The LMC is a Latent Variable Model for Jointly Modeling Words and Document Metadata.
+
 The LLMs fine-tuned could be download as the following links:
 | Models       | Download Link                                      |
 | -------------- | --------------------------------------------- |
