@@ -20,6 +20,8 @@ Other models are on uploading...
 
 ## Results
 
+### Stand-alone concept extractor
+
 <table>
   <thead>
     <tr>
@@ -137,6 +139,65 @@ Other models are on uploading...
       <td>0.8079</td>
       <td>0.8222</td>
       <td>0.8150</td>
+    </tr>
+  </tbody>
+</table>
+
+### Multi-corpus fine-tuned results （i2b2 2010 + i2b2 2012）
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="3">i2b2 2010</th>
+      <th colspan="3">i2b2 2012</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>P</th>
+      <th>R</th>
+      <th>F-1</th>
+      <th>P</th>
+      <th>R</th>
+      <th>F-1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Llama3-8b</td>
+      <td>0.8781</td>
+      <td>0.8764</td>
+      <td>0.8772</td>
+      <td>0.8451</td>
+      <td>0.6522</td>
+      <td>0.7362</td>
+    </tr>
+    <tr>
+      <td>Qwen2-7b</td>
+      <td>0.8755</td>
+      <td>0.8722</td>
+      <td>0.8738</td>
+      <td>0.8455</td>
+      <td>0.649</td>
+      <td>0.7343</td>
+    </tr>
+    <tr>
+      <td>Gemma 2-9b</td>
+      <td>0.8818</td>
+      <td>0.7992</td>
+      <td>0.8385</td>
+      <td>0.8444</td>
+      <td>0.655</td>
+      <td>0.7377</td>
+    </tr>
+    <tr>
+      <td>Mistral-7b</td>
+      <td>0.8832</td>
+      <td>0.8814</td>
+      <td>0.8823</td>
+      <td>0.8445</td>
+      <td>0.6547</td>
+      <td>0.7376</td>
     </tr>
   </tbody>
 </table>
