@@ -8,7 +8,8 @@ All source doe used in this project was uploaded in /LLaMA-Factory-main which wa
 ## Prompt Design
 
 ## Fine-tuned Models
-We evaluated the performance of the following LLMs for acting as a standalone clinical concept extractor
+We evaluated the performance of the following LLMs for acting as a standalone clinical concept extractor.
+
 The LLMs fine-tuned could be download as the following links:
 | Models       | Download Link                                      |
 | -------------- | --------------------------------------------- |
