@@ -19,7 +19,6 @@ The LLMs fine-tuned could be download as the following links:
 Other models are on uploading...
 
 ## Results
-
 | | i2b2 2010 | i2b2 2012 | CLEF eHealth Task 2013 |
 |-----------------|------|------|------|------|------|------|------|------|------|
 | | P | R | F-1 | P | R | F-1 | P | R | F-1 |
