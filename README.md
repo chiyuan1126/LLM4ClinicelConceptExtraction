@@ -2,8 +2,9 @@
 This is the repository for the experiments codes and models used in "Leveraging Locally Deployed Large Language Models for Clinical Concept Extraction"
 
 ## Source Code
-
 All source doe used in this project was uploaded in /LLaMA-Factory-main which was originally forked from https://github.com/hiyouga/LLaMA-Factory
+
+## Prompt Design
 
 ## Fine-tuned Models
 The LLMs fine-tuned could be download as the following links:
