@@ -1,5 +1,4 @@
-> [!NOTE] The model uploading is incomplete since it's too big
-> [!NOTE] Apologize for the typo in the name of the repo. To keep the access link unchanged, we will correct this typo after the manuscript review is completed.
+> [!NOTE] The model uploading is incomplete since it's too big. Apologize for the typo in the name of the repo. To keep the access link unchanged, we will correct this typo after the manuscript review is completed.
 # Locally Deplpyed LLM for Clinical Concept Extraction
 This is the repository for the experiments codes and models used in "Leveraging Locally Deployed Large Language Models for Clinical Concept Extraction"
 
